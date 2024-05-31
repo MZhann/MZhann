@@ -77,7 +77,10 @@
     <a href="https://www.linkedin.com/in/zhanbolat-mukan-44177826a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
     <a href="https://www.instagram.com/zh.mukan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
     <a href="https://vk.com/zh.mukan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
-    <a href="mailto:zhanbolat.mukan2004@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zhanbolat.mukan2004@gmail.com&body=%D0%96%D0%B0%D0%BD%D0%B1%D0%BE%D0%BB%D0%B0%D1%82%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82" target="_blank">
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" />
+    </a>
+
   </p>
   <br/>
   <div align="center">
