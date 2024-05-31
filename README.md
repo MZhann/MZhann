@@ -77,7 +77,7 @@
     <a href="https://www.linkedin.com/in/zhanbolat-mukan-44177826a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
     <a href="https://www.instagram.com/zh.mukan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
     <a href="https://vk.com/zh.mukan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
-    <a href=mailto:"zhanbolat.mukan2004@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30"   width="40" /></a>
+    <a href="mailto:zhanbolat.mukan2004@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
   </p>
   <br/>
   <div align="center">
