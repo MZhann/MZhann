@@ -1,10 +1,10 @@
 
 
-<div align="center">
+<!--  <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
   <img src="https://github-profile-trophy.vercel.app/?username=MZhann&theme=onedark" alt="trophies"/>
  </a> 
-</div>
+</div>  -->
 <!--
 <p align="center">
  <img src="https://badges.pufler.dev/visits/MZhann/MZhann"/> 
