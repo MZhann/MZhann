@@ -73,13 +73,16 @@
 
 <h3 align="center">Connect with me:</h3>
   <p align="center">
-    <a href="https://t.me/ZhSherl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/zhanbolat-mukan-44177826a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/zh.mukan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-    <a href="https://vk.com/zh.mukan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
-    <a href="mailto:zhanbolat.mukan2004@gmail.com" type="mail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30"   width="40" /></a>
+    <a href="https://t.me/ZhSherl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/zhanbolat-mukan-44177826a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/zh.mukan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+    <a href="https://vk.com/zh.mukan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
+    <a href=mailto:"zhanbolat.mukan2004@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30"   width="40" /></a>
   </p>
   <br/>
-  <p align="center">
+  <div align="center">
+   <a href="https://open.spotify.com/playlist/6gTdhPyo9wa1rDIRlszcQg?si=5bdf1e2e86bd4872" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=vinyfg8aucfn1los262d89q18&count=3"/>
-  </p>
+  </a>
+  </div>
+  
